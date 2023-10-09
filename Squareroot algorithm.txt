@@ -1,0 +1,23 @@
+ALGORITHM FINDING THE SQUARE ROOT OF A NUMBER
+
+1. Create a variable name e.g. "num1".
+
+2. Assign a prompt to the variable created in 1 to request the number input from the user.
+
+3. Create another variable name e.g. "result".
+
+4. Assign the math function "sqrt" to the variable created in 3 with the variable created in 1.
+
+5. Print output of 4.
+
+
+Example: In Javascript the following codes are valid:
+
+const num1 = prompt("Enter the number"); // Equivalent to step 1 & 2.
+
+const result = Math.sqrt(num1); // Equivalent to step 3 & 4.
+
+console.log(result); // Prints out the output called "result".
+
+
+
